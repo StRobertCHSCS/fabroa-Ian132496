@@ -1,0 +1,7 @@
+name = input()
+print("Hello " + name)
+print ("I want to print a double quote \" for some reason")
+print ("skskskskskskskskskskskkC:\\")
+print ("first\nsecond\nthird")
+print("line1", end="")
+print("line2")

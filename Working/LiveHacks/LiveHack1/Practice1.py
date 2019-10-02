@@ -7,7 +7,6 @@ Author:	Cho.S
 
 Created:	date in 01/10/2019
 ------------------------------------------------------------------------------
-'''
 
 # get fahrenheit from user
 fahrenheit = float(input("Enter the Fahrenheit: "))

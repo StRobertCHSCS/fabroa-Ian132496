@@ -1,6 +1,7 @@
 '''
 -------------------------------------------------------------------------------
 Name:		Problem2.py
+
 Purpose:    Finding the number of pieces of chicken each student and Mr. Fabroa gets 
 
 Author:	Cho.S

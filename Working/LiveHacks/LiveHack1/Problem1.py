@@ -1,6 +1,7 @@
 '''
 -------------------------------------------------------------------------------
 Name:		Problem1.py
+
 Purpose:    Finding Fahrenheit from Celsius
 
 Author:	Cho.S
@@ -17,6 +18,3 @@ Fahrenheit = ((9/5) * Celsius) + 32
 
 # output Fahrenheit
 print("The temperature in Fahrenheit is " + str(Fahrenheit))
-
-
-
